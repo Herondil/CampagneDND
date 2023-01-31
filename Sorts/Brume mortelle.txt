@@ -1,7 +1,7 @@
 Brume mortelle
 [ Cloudkill ]
 niveau 5 - invocation
-Temps d'incantation : 1 action
+Temps d'incantation : 116 actions
 Portée : 36 mètres
 Composantes : V, S
 Durée : concentration, jusqu'à 10 minutes
